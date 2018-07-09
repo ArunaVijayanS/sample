@@ -1,2 +1,3 @@
 item_name= input("Enter the item name")
+this is just ba test statement
 this is the project done by the mototech corp.
