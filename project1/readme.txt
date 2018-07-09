@@ -32,7 +32,8 @@ Non-Functional Requirements
     Availability
     Security
 
-
+Change Managment Process
+    From our point of view , we have decided to not have any changes in managment process for now. we provide a user guidline to guide them along the way.
 
 
                                                                                                                          
